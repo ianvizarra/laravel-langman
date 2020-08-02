@@ -1,3 +1,6 @@
+### Disclaimer
+this is forked of themsaid/laravel-langman to support laravel 6 and 7
+
 <h1 align="center">Laravel Langman</h1>
 
 <p align="center">
